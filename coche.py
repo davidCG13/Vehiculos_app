@@ -6,4 +6,4 @@ class Coche:
         self.puertas = puertas
 
     def descripcion(self):
-    return f"{self.marca} {self.modelo} ({self.año}) - {self.puertas} puertas"
+        return f"Coche: {self.marca} | Modelo: {self.modelo} | Año: {self.año}"git
